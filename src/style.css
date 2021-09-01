@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.head {
+  text-align: center;
+}
